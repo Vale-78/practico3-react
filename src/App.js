@@ -1,6 +1,7 @@
 
 import './App.css';
-import Car from "./componentes/Car"
+import Football from './componentes/Football';
+import Garage  from './componentes/Garage';
 
 function App() {
   return (
@@ -13,15 +14,12 @@ function App() {
               alt="Hedy Lamarr"
               classname="photo"
             />
-            <ul>
-              <li>Inventar nuevo semáforo</li>
-              <li>Ensayar la escena de la película</li>
-              <li>Mejorar la tecnología del espectro</li>
-            </ul>
             
         </>
-         <Car marca="Ford"/>
-         <Car marca="Fíat"/>
+        <br/>
+        <Football/>
+        <Garage/>
+        
       </header>
     </div>
   );
