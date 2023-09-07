@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project was bootstrapped with Mi pagina pages [Create React App](https://vale-78.github.io/practico3-react/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

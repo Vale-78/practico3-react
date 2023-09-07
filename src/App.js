@@ -1,5 +1,6 @@
 
 import './App.css';
+import Car from "./componentes/Car"
 
 function App() {
   return (
@@ -17,9 +18,10 @@ function App() {
               <li>Ensayar la escena de la película</li>
               <li>Mejorar la tecnología del espectro</li>
             </ul>
-            ;
+            
         </>
-
+         <Car marca="Ford"/>
+         <Car marca="Fíat"/>
       </header>
     </div>
   );
