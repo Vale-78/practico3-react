@@ -1,9 +1,17 @@
 
+
 import './App.css';
 import Football from './componentes/Football';
 import Garage  from './componentes/Garage';
+import {FavoriteColors} from "./componentes/FavoriteColors"
+import {MockApi} from "./componentes/MockApi"
+
+
 
 function App() {
+  
+  
+
   return (
     <div className="App">
       <header className="App-header">
@@ -19,9 +27,15 @@ function App() {
         <br/>
         <Football/>
         <Garage/>
-        
+        <FavoriteColors/>
+        <MockApi/>
       </header>
+        
+    
     </div>
+   
+
+    
   );
 }
 
