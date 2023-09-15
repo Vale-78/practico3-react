@@ -6,7 +6,7 @@ function Garage(){
     const autoMarca = {name:"Ford", modelo: modeloVar};
     return(
         <>
-             <h1>Qué auto tengo en mi garage?</h1>
+             <h3>Qué auto tengo en mi garage?</h3>
              {/* <Car marca="Mitsubishi"/>
              <Car marca="Ford"/>
              <Car marca="Fíat"/> */}

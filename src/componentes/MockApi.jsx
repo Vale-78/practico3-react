@@ -22,9 +22,3 @@ function MockApi() {
 }
 
 export {MockApi};
-// if (roundResult === 'Jugador') {
-//   setPlayerScore(playerScore + 1);
-// } else if (roundResult === 'PC') {
-//   setComputerScore(computerScore + 1);
-// }
-// se
